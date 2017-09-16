@@ -25,7 +25,7 @@ SECRET_KEY = 'z+3nka)f-r(m%at!5=ce-a_@gl2n37!zm&@t_ui4#(5ay_sdz5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ziebex.pythonanywhere.com']
 
 
 # Application definition
